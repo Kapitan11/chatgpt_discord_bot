@@ -43,4 +43,4 @@ And voile! Your own chatbot is up and running. To interact with it, go to your s
 
 ## Credits
 
-The code was written following the following [tutorial](https://www.youtube.com/watch?v=wdgVv4UP08c). 
+This code was written following [tutorial](https://www.youtube.com/watch?v=wdgVv4UP08c). 
