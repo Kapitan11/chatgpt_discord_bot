@@ -1,4 +1,4 @@
-# Alpaca Paper Algo-Trading Project
+# Discord Chatbot powered by OpenAI API
 
 ## Description
 
